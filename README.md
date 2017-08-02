@@ -23,5 +23,5 @@ git merge dev
 3. 创建并且切换到本地dev分支   git checkout -b dev
 4. 建立本地dev分支和远程dev分支的联系  git branch --set-upstream-to=origin/dev
 5. 拉取dev分支上面的内容   git pull
-6. 在本地dev分支上面修改代码,然后   git add.   git commit -m 'msg'
+6. 在本地dev分支上面修改代码,然后   git add .   git commit -m 'msg'
 7. 将本地dev分支内容推送到远程dev分支  git push
