@@ -6,11 +6,11 @@
 
 ## 基本的git命令
 ``` javascript
-	git add .
-	git commit -m 'msg'
-	git pull
-	git push
-	git branch
-	git checkout dev
-	git merge dev
+git add .
+git commit -m 'msg'
+git pull
+git push
+git branch
+git checkout dev
+git merge dev
 ```
