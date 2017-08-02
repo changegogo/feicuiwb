@@ -5,10 +5,12 @@
 之后这个版本的修订，都在这里
 
 ## 基本的git命令
-git add .
-git commit -m 'msg'
-git pull
-git push
-git branch
-git checkout dev
-git merge dev
+``` javascript
+	git add .
+	git commit -m 'msg'
+	git pull
+	git push
+	git branch
+	git checkout dev
+	git merge dev
+```
